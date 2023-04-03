@@ -7,4 +7,4 @@
 5. The INT.TRANSFERS directroy contains the graph plotting and everything I have done using the number of intersegmental transfers during the simulation.  
    (Here to calculate the diffusion coefficient or to calculate intersegmental transfers I used codes which I kept in the CODES repository.)
 6. The STRUCT directory contains all the structures (.pdb) and image (.png) files.  
-7. 
+7. TWO.BODY.DNA60 conatins the results with 60 NT DNA where I calculated the two-body interactions between protein and DNA to obtain a energy-lendscape type of graph.  
