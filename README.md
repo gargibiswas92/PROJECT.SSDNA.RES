@@ -6,3 +6,5 @@
    Also compared the effect of salt for this same length and same distances changing the dihedral potential.  
 5. The INT.TRANSFERS directroy contains the graph plotting and everything I have done using the number of intersegmental transfers during the simulation.  
    (Here to calculate the diffusion coefficient or to calculate intersegmental transfers I used codes which I kept in the CODES repository.)
+6. The STRUCT directory contains all the structures (.pdb) and image (.png) files.  
+7. 
